@@ -167,7 +167,7 @@ function spawnObstacles() {
       default: break;
     }
     
-    //designe escolamento e tempo de vida ao obstáculo           
+    //designe o escalonamento e tempo de vida ao obstáculo           
     obstacle.scale = 0.5;
     obstacle.lifetime = 300;
     //adicione cada obstáculo ao grupo
